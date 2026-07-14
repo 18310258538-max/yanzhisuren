@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "records": [
+    {
+      "id": "exec-1781589600171-oaet02",
+      "taskId": "task-1781539235696-yzsr01",
+      "taskName": "每日14点更新颜值素人奖励数据并推送GitHub",
+      "scheduledAt": 1781589600155,
+      "startedAt": 1781589600171,
+      "status": "success",
+      "sessionId": "scheduled-task-1781539235696-yzsr01-1781589600156",
+      "finishedAt": 1781589600731,
+      "durationMs": 560
+    }
+  ],
+  "maxRecordsPerTask": 100
+}
